@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "gifdec.h": "c",
+        "lv_gif.h": "c",
+        "numbers": "c",
+        "video.h": "c",
+        "music.h": "c",
+        "system_error": "c",
+        "array": "c",
+        "functional": "c",
+        "tuple": "c",
+        "type_traits": "c",
+        "utility": "c"
+    }
+}

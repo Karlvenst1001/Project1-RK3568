@@ -1,0 +1,33 @@
+lvgl/CMakeFiles/lvgl.dir/src/misc/lv_tlsf.c.o: \
+ /home/mjy/lv_port_linux/lvgl/src/misc/lv_tlsf.c \
+ /usr/bin/gcc-linaro-7.5.0-2019.12-x86_64_aarch64-linux-gnu/aarch64-linux-gnu/libc/usr/include/stdc-predef.h \
+ /home/mjy/lv_port_linux/lvgl/src/misc/../lv_conf_internal.h \
+ /usr/bin/gcc-linaro-7.5.0-2019.12-x86_64_aarch64-linux-gnu/lib/gcc/aarch64-linux-gnu/7.5.0/include/stdint.h \
+ /usr/bin/gcc-linaro-7.5.0-2019.12-x86_64_aarch64-linux-gnu/aarch64-linux-gnu/libc/usr/include/stdint.h \
+ /usr/bin/gcc-linaro-7.5.0-2019.12-x86_64_aarch64-linux-gnu/aarch64-linux-gnu/libc/usr/include/bits/libc-header-start.h \
+ /usr/bin/gcc-linaro-7.5.0-2019.12-x86_64_aarch64-linux-gnu/aarch64-linux-gnu/libc/usr/include/features.h \
+ /usr/bin/gcc-linaro-7.5.0-2019.12-x86_64_aarch64-linux-gnu/aarch64-linux-gnu/libc/usr/include/sys/cdefs.h \
+ /usr/bin/gcc-linaro-7.5.0-2019.12-x86_64_aarch64-linux-gnu/aarch64-linux-gnu/libc/usr/include/bits/wordsize.h \
+ /usr/bin/gcc-linaro-7.5.0-2019.12-x86_64_aarch64-linux-gnu/aarch64-linux-gnu/libc/usr/include/bits/long-double.h \
+ /usr/bin/gcc-linaro-7.5.0-2019.12-x86_64_aarch64-linux-gnu/aarch64-linux-gnu/libc/usr/include/gnu/stubs.h \
+ /usr/bin/gcc-linaro-7.5.0-2019.12-x86_64_aarch64-linux-gnu/aarch64-linux-gnu/libc/usr/include/gnu/stubs-lp64.h \
+ /usr/bin/gcc-linaro-7.5.0-2019.12-x86_64_aarch64-linux-gnu/aarch64-linux-gnu/libc/usr/include/bits/types.h \
+ /usr/bin/gcc-linaro-7.5.0-2019.12-x86_64_aarch64-linux-gnu/aarch64-linux-gnu/libc/usr/include/bits/typesizes.h \
+ /usr/bin/gcc-linaro-7.5.0-2019.12-x86_64_aarch64-linux-gnu/aarch64-linux-gnu/libc/usr/include/bits/wchar.h \
+ /home/mjy/lv_port_linux/lvgl/src/misc/../lv_conf_kconfig.h \
+ /home/mjy/lv_port_linux/./lv_conf.h \
+ /usr/bin/gcc-linaro-7.5.0-2019.12-x86_64_aarch64-linux-gnu/lib/gcc/aarch64-linux-gnu/7.5.0/include-fixed/limits.h \
+ /usr/bin/gcc-linaro-7.5.0-2019.12-x86_64_aarch64-linux-gnu/lib/gcc/aarch64-linux-gnu/7.5.0/include-fixed/syslimits.h \
+ /usr/bin/gcc-linaro-7.5.0-2019.12-x86_64_aarch64-linux-gnu/aarch64-linux-gnu/libc/usr/include/limits.h \
+ /usr/bin/gcc-linaro-7.5.0-2019.12-x86_64_aarch64-linux-gnu/aarch64-linux-gnu/libc/usr/include/bits/posix1_lim.h \
+ /usr/bin/gcc-linaro-7.5.0-2019.12-x86_64_aarch64-linux-gnu/aarch64-linux-gnu/libc/usr/include/bits/local_lim.h \
+ /usr/bin/gcc-linaro-7.5.0-2019.12-x86_64_aarch64-linux-gnu/aarch64-linux-gnu/libc/usr/include/linux/limits.h \
+ /usr/bin/gcc-linaro-7.5.0-2019.12-x86_64_aarch64-linux-gnu/aarch64-linux-gnu/libc/usr/include/bits/posix2_lim.h \
+ /home/mjy/lv_port_linux/lvgl/src/misc/lv_tlsf.h \
+ /usr/bin/gcc-linaro-7.5.0-2019.12-x86_64_aarch64-linux-gnu/lib/gcc/aarch64-linux-gnu/7.5.0/include/stddef.h \
+ /home/mjy/lv_port_linux/lvgl/src/misc/lv_mem.h \
+ /usr/bin/gcc-linaro-7.5.0-2019.12-x86_64_aarch64-linux-gnu/aarch64-linux-gnu/libc/usr/include/string.h \
+ /usr/bin/gcc-linaro-7.5.0-2019.12-x86_64_aarch64-linux-gnu/aarch64-linux-gnu/libc/usr/include/xlocale.h \
+ /home/mjy/lv_port_linux/lvgl/src/misc/lv_types.h \
+ /home/mjy/lv_port_linux/lvgl/src/misc/lv_log.h \
+ /home/mjy/lv_port_linux/lvgl/src/misc/lv_assert.h
