@@ -1,0 +1,2 @@
+/bin/gcc-linaro-7.5.0-2019.12-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-ar qc liblvgl_usr.a CMakeFiles/lvgl_usr.dir/kakaloto.c.o CMakeFiles/lvgl_usr.dir/login_register.c.o CMakeFiles/lvgl_usr.dir/lv_test.c.o CMakeFiles/lvgl_usr.dir/pic1.c.o
+/bin/gcc-linaro-7.5.0-2019.12-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-ranlib liblvgl_usr.a

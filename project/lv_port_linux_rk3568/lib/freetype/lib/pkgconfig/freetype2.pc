@@ -1,0 +1,14 @@
+prefix=/home/mjy/lib/freetype
+exec_prefix=/home/mjy/lib/freetype
+libdir=/home/mjy/lib/freetype/lib
+includedir=/home/mjy/lib/freetype/include
+
+Name: FreeType 2
+URL: https://freetype.org
+Description: A free, high-quality, and portable font engine.
+Version: 26.2.20
+Requires: 
+Requires.private: zlib, libpng
+Libs: -L/home/mjy/lib/freetype/lib -lfreetype
+Libs.private: 
+Cflags: -I${includedir}/freetype2
